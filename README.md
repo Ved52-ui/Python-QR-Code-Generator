@@ -1,7 +1,7 @@
 <h1 align="center">✨ UPI QR Code Generator (Professional GUI) ✨</h1>
 
 <p align="center">
-  <img src="Screenshot 2025-11-08 115544.png" width="200" />
+  <img src="Screenshot 2025-11-08 115544.png" width="600" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@ A modern, stylish and business-ready <b>UPI QR Code Generator</b> built using <b
 </p>
 
 <p align="center">
-<b>Made with ❤️ by Ved Patel</b>
+<b>Made Ved Patel</b>
 </p>
 
 ---
