@@ -1,7 +1,7 @@
 <h1 align="center">✨ UPI QR Code Generator (Professional GUI) ✨</h1>
 
 <p align="center">
-  <img src="Screenshot 2025-11-08 115544.png" width="600" />
+  <img src="Screenshot 2025-11-08 115544.png" width="800" />
 </p>
 
 <p align="center">
