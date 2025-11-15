@@ -7,7 +7,7 @@
 <p align="center">
 A modern, stylish and business-ready <b>UPI QR Code Generator</b> built using <b>Python + CustomTkinter</b>.
 </p>
-nj
+
 <p align="center">
 <b>Made Ved Patel</b>
 </p>
