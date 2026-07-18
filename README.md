@@ -3,7 +3,7 @@
 <p align="center">
   <img src="Screenshot 2025-11-08 115544.png" width="800" />
 </p>
-nnk
+nn
 <p align="center">
 A modern, stylish and business-ready <b>UPI QR Code Generator</b> built using <b>Python + CustomTkinter</b>.
 </p>
